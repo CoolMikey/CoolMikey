@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I’m CoolMikey 👋
 
-<!--
-**CoolMikey/CoolMikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** with a passion for technology and continuous learning.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Interests
+- **Languages & Tools:** Python, RDBMS, Docker
+- **Homelab Enthusiast:** Always tinkering with self-hosted solutions and home server setups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Outside of Tech
+When I’m not coding or experimenting in my homelab, you’ll find me:
+- 📖 Reading
+- 🎿 Skiing
+- ⛵ Sailing
+
+---
+
+_Thanks for stopping by my profile!_
